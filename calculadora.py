@@ -9,4 +9,5 @@ def dividi(a, b):
         raise ValueError("divisão por zero não é permitida")
     return a / b
 def potencia(base, expoente):
-    return base ** expoente
+    return base ** expoentedef raiz_quadrada (n):
+    return n ** 0.5
